@@ -1,0 +1,271 @@
+As of feb-2024:
+
+2023-10-30 18:21:17 -0300 4 months ago 	origin/OL-1665-fix-specialties-bugs
+2023-10-29 18:42:48 -0300 4 months ago 	origin/feat/response-analysis
+2023-10-27 13:38:14 +0000 4 months ago 	origin/dev
+2023-10-27 11:43:27 -0300 4 months ago 	origin/master
+2023-10-27 08:26:28 -0500 4 months ago 	origin/testbed-oct25-branch
+2023-10-24 17:17:31 -0300 4 months ago 	origin/OL-1663-improve-new-user-assignment-validation-message
+2023-10-20 18:29:44 -0500 4 months ago 	origin/rearrange-label-wrapper
+2023-10-20 16:07:17 -0300 4 months ago 	origin/OL-1664-fix-view-resource-breadcrumb
+2023-10-16 18:34:53 -0300 4 months ago 	origin/OL-1661-reinforce-that-decimal-values-ar
+2023-10-16 10:31:52 -0300 4 months ago 	origin/OL-1660-apply-default_date_format-on-markup
+2023-10-11 18:23:22 -0300 4 months ago 	origin/OL-1658-fix-course-sessions-dates-on-att
+2023-10-09 15:06:43 -0300 5 months ago 	origin/OL-1657-resource-adjustments
+2023-10-09 07:37:06 -0300 5 months ago 	origin/guidance-repository
+2023-10-03 01:11:30 -0300 5 months ago 	origin/OL-1656-guidance-repository-page
+2023-09-27 20:05:33 -0300 5 months ago 	origin/OL-1655-admin-only-resource-metadata
+2023-09-26 10:43:20 -0300 5 months ago 	origin/content-item-cookie-auto-save
+2023-09-21 00:45:15 -0300 5 months ago 	origin/OL-1651-implement-admin-resources-only
+2023-09-19 11:05:30 -0300 5 months ago 	origin/OL-1576-rewrite-entity-archives-test
+2023-09-19 02:26:43 -0300 5 months ago 	origin/OL-1573-rewrite-reset-email-content-func
+2023-09-07 15:41:43 -0300 6 months ago 	origin/fix/quiz-duplication
+2023-09-01 15:34:09 -0300 6 months ago 	origin/OL-1597-toggle-qa-related-emails-when-qa
+2023-08-30 10:26:44 -0300 6 months ago 	origin/OL-1590-filtering-email-batches-by-sent
+2023-08-24 15:37:17 -0300 6 months ago 	origin/OL-1642-enforce-filters-mentors-and-emai
+2023-08-23 12:41:43 -0500 6 months ago 	origin/OL-1644-add-guidance-on-merge-codes-for
+2023-08-23 11:14:50 -0300 6 months ago 	origin/OL-1629-enable-tinymce-for-copy-paste
+2023-07-31 16:00:22 -0300 7 months ago 	origin/NLP-tools
+2023-07-24 10:33:25 -0300 7 months ago 	origin/NLP-rich-text-type
+2023-07-14 09:29:34 -0300 7 months ago 	origin/OL-1578
+2023-06-02 18:15:17 -0300 9 months ago 	origin/OL-1582-registrant-interview-session-rec
+2023-05-16 20:54:02 -0300 9 months ago 	origin/OL-1551-add-guidance-and-about-pages-as-
+2023-05-11 14:44:54 -0300 10 months ago 	origin/OL-1544
+2023-05-08 09:27:47 -0300 10 months ago 	origin/OL-1542
+2023-05-02 11:59:05 -0500 10 months ago 	origin/resource-grouping
+2023-05-02 10:43:32 -0500 10 months ago 	origin/resource-grouping-language-fix
+2023-04-20 14:23:49 -0300 10 months ago 	origin/OL-1537
+2023-03-28 16:00:39 -0300 11 months ago 	origin/ol-1506-email-comparison-tool
+2023-03-27 17:36:27 -0300 11 months ago 	origin/OL-1510
+2023-03-06 11:04:25 -0500 12 months ago 	origin/ol-1497-interview-balancer-not-working
+2023-03-06 11:03:29 -0500 12 months ago 	origin/ol-1498-interviewee-list
+2023-03-06 11:02:32 -0500 12 months ago 	origin/ol-1494-interview-page-component-path
+2023-02-14 05:57:58 -0500 1 year ago 	origin/ol-1481-hide-used-in-new-courses
+2023-02-08 14:40:04 -0500 1 year ago 	origin/attendance-export-order-hotfix
+2023-01-26 19:00:20 -0500 1 year, 1 month ago 	origin/ol-1199-transaction-contact-merge
+2023-01-12 12:24:24 +0000 1 year, 1 month ago 	origin/OL-1420-multiple-select-box-doesnt-work
+2023-01-10 15:06:17 -0600 1 year, 1 month ago 	origin/home-course-tweaks
+2023-01-09 20:49:18 +0000 1 year, 1 month ago 	origin/ol-1443-resources-grid-columns
+2022-12-23 13:00:15 +0000 1 year, 2 months ago 	origin/ol-1396
+2022-12-18 22:05:30 -0300 1 year, 2 months ago 	origin/OL-1422-tbri-june-registration-changes
+2022-12-14 13:15:15 -0300 1 year, 2 months ago 	origin/hotfix/rating-matrix-bug
+2022-12-13 05:20:59 -0500 1 year, 2 months ago 	origin/quiz-attempt-observer-fix
+2022-12-01 11:24:30 -0300 1 year, 3 months ago 	origin/OL-1398-merge-user-is-not-consistent
+2022-11-28 10:46:37 +0000 1 year, 3 months ago 	origin/ol-1371
+2022-11-28 10:38:16 -0300 1 year, 3 months ago 	origin/ol-1375
+2022-11-24 09:37:22 -0300 1 year, 3 months ago 	origin/ol-1378
+2022-11-22 11:33:21 -0300 1 year, 3 months ago 	origin/ol-1361
+2022-11-14 11:58:07 -0300 1 year, 3 months ago 	origin/OL-1343-entity-attribute-list-entity-form
+2022-11-10 19:23:16 -0300 1 year, 3 months ago 	origin/ol-1356
+2022-11-08 10:44:21 -0300 1 year, 3 months ago 	origin/ol-1340
+2022-11-03 16:27:43 -0300 1 year, 4 months ago 	origin/ol-1333
+2022-10-25 14:31:10 -0300 1 year, 4 months ago 	origin/ol-1312
+2022-10-21 13:29:27 +0000 1 year, 4 months ago 	origin/revert-pr-925
+2022-10-13 11:33:32 +0000 1 year, 4 months ago 	origin/revert-pr-911
+2022-10-03 14:30:25 -0300 1 year, 5 months ago 	origin/ol-1237
+2022-09-29 10:50:50 -0300 1 year, 5 months ago 	origin/hot-fix/content-builder
+2022-09-28 10:02:25 -0300 1 year, 5 months ago 	origin/fix/create-course-activity
+2022-09-28 01:54:19 -0300 1 year, 5 months ago 	origin/OL-1239-add-new-custom-field-in-the-user
+2022-09-20 14:52:30 -0300 1 year, 5 months ago 	origin/fix/content-structure-policy
+2022-09-14 18:41:16 -0300 1 year, 5 months ago 	origin/OL-1226-registration-accepted-specialties-field
+2022-09-12 06:22:05 -0500 1 year, 5 months ago 	origin/q-a-final
+2022-09-06 11:44:51 -0300 1 year, 6 months ago 	origin/ol-1207
+2022-09-01 11:25:51 -0300 1 year, 6 months ago 	origin/ol-1188
+2022-08-31 14:36:06 +0000 1 year, 6 months ago 	origin/ol-1208
+2022-08-25 01:15:47 +0000 1 year, 6 months ago 	origin/ol-291
+2022-08-22 16:48:52 +0000 1 year, 6 months ago 	origin/ol-1104
+2022-08-22 15:00:31 -0300 1 year, 6 months ago 	origin/ol-1096
+2022-08-17 10:52:53 -0300 1 year, 6 months ago 	origin/ol-1098
+2022-08-16 16:38:36 -0300 1 year, 6 months ago 	origin/OL-887-Bruno
+2022-08-16 16:10:29 -0300 1 year, 6 months ago 	origin/OL-887-giovanni-push
+2022-08-16 16:10:29 -0300 1 year, 6 months ago 	origin/OL-887-context-generation-workspace-items
+2022-08-02 14:58:50 -0500 1 year, 7 months ago 	origin/locale-changes-from-kelvin
+2022-08-02 11:40:23 -0300 1 year, 7 months ago 	origin/ol-1047
+2022-07-28 18:40:27 -0300 1 year, 7 months ago 	origin/OL-620-report-with-the-schedule-of-remin
+2022-07-22 16:20:39 -0500 1 year, 7 months ago 	origin/new-phase-1
+2022-07-22 10:45:20 -0300 1 year, 7 months ago 	origin/OL-1012
+2022-07-13 14:22:50 -0300 1 year, 7 months ago 	origin/OL-988-ols-email-s396-registration
+2022-07-12 10:03:59 -0300 1 year, 7 months ago 	origin/OL-989-add-new-user-profile-form-field
+2022-07-11 14:14:19 -0500 1 year, 7 months ago 	origin/onsite-phase2-hotfix
+2022-07-01 09:18:30 -0300 1 year, 8 months ago 	origin/ol-959
+2022-06-28 10:43:11 -0300 1 year, 8 months ago 	origin/ol-961
+2022-06-27 13:51:23 -0300 1 year, 8 months ago 	origin/OL-952-my-certificate-payments-link-policy-update
+2022-06-24 09:29:50 -0300 1 year, 8 months ago 	origin/ol-362
+2022-06-23 13:03:03 -0500 1 year, 8 months ago 	origin/testbed
+2022-06-17 14:50:19 -0400 1 year, 8 months ago 	origin/pablo/design-faq
+2022-06-17 10:08:02 -0300 1 year, 8 months ago 	origin/ol-944
+2022-06-15 20:18:15 -0300 1 year, 8 months ago 	origin/OL-751-consider-mailable-event-when-togg
+2022-06-15 11:43:27 -0300 1 year, 8 months ago 	origin/OL-822-user-workspace-items
+2022-06-13 08:39:21 -0300 1 year, 8 months ago 	origin/ol-904
+2022-06-10 15:07:28 -0300 1 year, 8 months ago 	origin/ol-905-1
+2022-05-31 08:56:42 -0300 1 year, 9 months ago 	origin/ol-864
+2022-05-23 09:05:24 -0300 1 year, 9 months ago 	origin/after-refactor
+2022-05-23 09:04:09 -0300 1 year, 9 months ago 	origin/before-refactor
+2022-05-19 17:57:35 -0300 1 year, 9 months ago 	origin/ol-826
+2022-05-18 23:38:40 -0500 1 year, 9 months ago 	origin/q-a-tweaks
+2022-05-18 13:20:21 +0000 1 year, 9 months ago 	origin/ol-843
+2022-05-17 15:58:26 -0300 1 year, 9 months ago 	origin/ol-804
+2022-05-16 17:03:59 -0300 1 year, 9 months ago 	origin/OL-448-organization-course-emails-relati
+2022-04-27 11:18:43 -0300 1 year, 10 months ago 	origin/OL-645-add-tool-tip-for-the-course-field
+2022-04-05 11:41:34 -0500 1 year, 11 months ago 	origin/categories-registration-builder
+2022-04-05 11:08:30 -0500 1 year, 11 months ago 	origin/testbed-branch
+2022-03-22 19:13:59 -0500 1 year, 11 months ago 	origin/interactive-video-player
+2022-03-08 12:03:55 -0300 2 years ago 	origin/laravel9
+2022-03-04 13:27:09 -0300 2 years ago 	origin/ol-678
+2022-03-02 16:29:27 -0300 2 years ago 	origin/ol-669
+2022-02-18 11:31:34 -0300 2 years ago 	origin/ol-636
+2022-02-16 16:18:20 -0300 2 years ago 	origin/fix/pipeline
+2022-02-14 17:10:01 -0500 2 years ago 	origin/course-information-form-fix
+2022-02-11 08:29:25 -0500 2 years ago 	origin/adds-hints-and-tips
+2022-01-19 15:21:14 -0300 2 years, 1 month ago 	origin/OL-542-implement-role-recommendation-que
+2022-01-18 17:23:52 -0500 2 years, 1 month ago 	origin/q-a-user-guidance
+2022-01-18 15:00:07 -0500 2 years, 1 month ago 	origin/dashboard-course-type
+2022-01-13 17:45:06 -0300 2 years, 1 month ago 	origin/OL-497-modal-content-validation
+2021-12-22 13:42:47 -0300 2 years, 2 months ago 	origin/OL-449-reset-changes-doesnt-respect-form
+2021-12-21 10:41:23 -0300 2 years, 2 months ago 	origin/phpmd
+2021-12-14 14:51:28 -0300 2 years, 2 months ago 	origin/org-course-email-template
+2021-12-03 14:33:53 -0300 2 years, 3 months ago 	origin/entity-form-fill-data-fix
+2021-11-30 20:35:53 -0300 2 years, 3 months ago 	origin/OL-445-ols-caregivers-membership-number
+2021-11-30 13:10:52 -0300 2 years, 3 months ago 	origin/ol-182
+2021-11-09 15:59:25 -0300 2 years, 3 months ago 	origin/menu-styles
+2021-11-09 13:15:41 -0300 2 years, 3 months ago 	origin/content-builder-training-menu
+2021-10-19 15:21:33 -0300 2 years, 4 months ago 	origin/OL-432-new-cfa-registration-process-seed
+2021-10-15 00:32:47 -0300 2 years, 4 months ago 	origin/OL-396-avoid-closing-modal-form-changes
+2021-10-13 06:25:39 -0300 2 years, 4 months ago 	origin/ol-400
+2021-10-12 09:44:41 -0300 2 years, 4 months ago 	origin/frontend-fullscreen
+2021-10-08 05:15:23 -0500 2 years, 5 months ago 	origin/automate-nola-emails
+2021-10-05 16:25:51 -0300 2 years, 5 months ago 	origin/ol-419
+2021-10-05 14:04:29 -0300 2 years, 5 months ago 	origin/content-item-page-settings
+2021-10-04 19:29:03 -0300 2 years, 5 months ago 	origin/OL-381-datalist-options-fix
+2021-10-01 14:15:36 -0300 2 years, 5 months ago 	origin/ol-419-2
+2021-09-27 18:28:46 -0300 2 years, 5 months ago 	origin/ol-415
+2021-09-27 18:19:10 -0300 2 years, 5 months ago 	origin/ol-412
+2021-09-21 16:54:08 -0300 2 years, 5 months ago 	origin/OL-409-access-link-from-registration-process
+2021-09-09 01:56:09 -0300 2 years, 5 months ago 	origin/OL-401-back-button-to-admin-from-c-pages
+2021-09-08 16:29:18 -0300 2 years, 5 months ago 	origin/ol-405
+2021-09-02 17:01:21 -0300 2 years, 6 months ago 	origin/ol-403
+2021-09-02 15:50:45 -0300 2 years, 6 months ago 	origin/ol-404
+2021-09-02 15:20:52 -0300 2 years, 6 months ago 	origin/ol-402
+2021-09-02 11:24:59 -0300 2 years, 6 months ago 	origin/ol-399
+2021-08-24 13:50:39 -0300 2 years, 6 months ago 	origin/OL-388-content-list-and-details-page-twe
+2021-08-18 17:49:27 -0300 2 years, 6 months ago 	origin/ol-395
+2021-08-10 05:27:49 -0300 2 years, 6 months ago 	origin/OL-344-user-groups-admin-tweaks
+2021-08-02 12:09:16 -0300 2 years, 7 months ago 	origin/OL-343-grid-visualization-preferences
+2021-07-29 02:18:51 -0300 2 years, 7 months ago 	origin/OL-339-courses-grid-export-fix
+2021-07-15 18:14:06 -0300 2 years, 7 months ago 	origin/OL-340-cfa-course-grid-columns-visual
+2021-07-07 02:23:13 -0300 2 years, 8 months ago 	origin/OL-331-email-setting-footer-test
+2021-07-06 17:34:11 -0300 2 years, 8 months ago 	origin/OL-330-rich-text-area-height-attribute
+2021-07-02 03:29:37 -0300 2 years, 8 months ago 	origin/OL-332-search-for-user-complete-name-in-
+2021-06-29 10:17:02 -0300 2 years, 8 months ago 	origin/ol-312
+2021-06-29 09:50:15 -0300 2 years, 8 months ago 	origin/ol-311
+2021-06-29 09:25:26 -0300 2 years, 8 months ago 	origin/ol-294
+2021-06-25 15:44:31 -0300 2 years, 8 months ago 	origin/ol-322
+2021-06-04 17:28:53 -0300 2 years, 9 months ago 	origin/ol-291-2
+2021-06-01 17:58:26 -0300 2 years, 9 months ago 	origin/OL-156-double-check-clean-organization
+2021-05-31 06:59:27 -0300 2 years, 9 months ago 	origin/ol-249
+2021-05-22 11:33:14 +0000 2 years, 9 months ago 	origin/ol-169-journal-custom-form
+2021-05-21 15:17:06 -0300 2 years, 9 months ago 	origin/ol-129-course-always-available
+2021-05-21 11:48:25 -0500 2 years, 9 months ago 	origin/started-column-width
+2021-05-20 15:48:51 -0300 2 years, 9 months ago 	origin/OL-273-show-timezone-organization-settin
+2021-05-18 12:41:52 +0000 2 years, 9 months ago 	origin/OL-172-certificates-with-wrong-dates
+2021-05-18 09:14:13 -0300 2 years, 9 months ago 	origin/ol-276
+2021-05-17 11:14:09 +0000 2 years, 9 months ago 	origin/ol-267
+2021-05-11 18:29:53 -0300 2 years, 9 months ago 	origin/OL-261-test-existing-seeder
+2021-05-05 12:05:10 -0500 2 years, 10 months ago 	origin/menu-items-fix
+2021-05-04 19:47:43 -0300 2 years, 10 months ago 	origin/ol-237
+2021-04-20 18:33:14 -0300 2 years, 10 months ago 	origin/OL-49-client-timezone-setting
+2021-04-16 11:36:22 -0300 2 years, 10 months ago 	origin/ol-106-resource-cut-off-date
+2021-04-15 14:51:24 -0300 2 years, 10 months ago 	origin/ol-213-delete-block-enhacement
+2021-04-15 10:42:06 -0300 2 years, 10 months ago 	origin/ol-208-improve-add-existing-block
+2021-04-07 13:33:42 -0300 2 years, 11 months ago 	origin/ol-130-course-always-available-test
+2021-03-23 02:37:48 -0500 2 years, 11 months ago 	origin/course-activity-observer
+2021-03-12 14:21:22 -0300 2 years, 11 months ago 	origin/fix-tests
+2021-02-22 15:59:48 -0300 3 years ago 	origin/fix-resources-administration
+2021-02-11 17:42:08 -0300 3 years ago 	origin/filter-block
+2021-02-01 10:54:24 -0300 3 years, 1 month ago 	origin/default-registrations
+2021-02-01 10:04:32 -0300 3 years, 1 month ago 	origin/filter-registrations
+2021-01-21 16:01:43 -0300 3 years, 1 month ago 	origin/improve-notification-relationship
+2021-01-19 19:29:33 -0300 3 years, 1 month ago 	origin/export-files-creation-policy-management
+2021-01-15 11:00:13 -0300 3 years, 1 month ago 	origin/user-relationships
+2021-01-13 22:58:53 -0300 3 years, 1 month ago 	origin/resource-files-relation-download-policy
+2021-01-09 09:31:52 -0300 3 years, 1 month ago 	origin/admin-sidebar-deactivation
+2021-01-06 16:48:55 -0300 3 years, 2 months ago 	origin/ci-setup
+2021-01-05 09:14:53 -0300 3 years, 2 months ago 	origin/cfa-report-dates-timezone
+2020-12-16 01:41:05 -0300 3 years, 2 months ago 	origin/broken-user-subscription-transaction-receipts-download
+2020-12-14 06:25:42 -0600 3 years, 2 months ago 	origin/dev-from-mars
+2020-12-11 15:31:28 -0300 3 years, 2 months ago 	origin/translation-management-files
+2020-12-11 13:02:14 -0300 3 years, 2 months ago 	origin/old-dev
+2020-12-10 18:25:01 -0300 3 years, 2 months ago 	origin/translation-management-2
+2020-12-04 13:46:44 -0300 3 years, 3 months ago 	origin/php8
+2020-11-17 17:36:25 -0300 3 years, 3 months ago 	origin/translations
+2020-11-17 09:16:01 -0300 3 years, 3 months ago 	origin/fix/no-email
+2020-11-16 09:27:17 -0300 3 years, 3 months ago 	origin/laravel-upgrade
+2020-11-03 22:59:08 -0300 3 years, 4 months ago 	origin/docker
+2020-11-03 18:39:12 -0300 3 years, 4 months ago 	origin/new-user-subscription-transactions-discount-application
+2020-10-23 18:56:34 -0300 3 years, 4 months ago 	origin/automatic-session-registration
+2020-10-15 13:17:42 +0000 3 years, 4 months ago 	origin/new-forms
+2020-10-15 10:33:27 -0300 3 years, 4 months ago 	origin/feature/999
+2020-10-14 21:58:40 -0300 3 years, 4 months ago 	origin/text-area-form
+2020-10-09 02:30:09 -0300 3 years, 5 months ago 	origin/cfa-new-courses-registration-type-rule
+2020-10-05 18:14:21 -0500 3 years, 5 months ago 	origin/cst2-changes
+2020-10-05 10:32:52 -0300 3 years, 5 months ago 	origin/assign-users-to-surveys
+2020-09-29 00:33:22 -0500 3 years, 5 months ago 	origin/heisenbug-fix
+2020-09-25 18:44:06 -0500 3 years, 5 months ago 	origin/admin-course-tabs
+2020-09-18 10:20:11 -0300 3 years, 5 months ago 	origin/practitioner-training-evaluation-survey
+2020-09-18 10:20:11 -0300 3 years, 5 months ago 	origin/csrf-token-mismatch-message
+2020-09-16 07:46:26 -0500 3 years, 5 months ago 	origin/dispatch-job-for-new-registrations
+2020-09-14 17:44:07 -0500 3 years, 5 months ago 	origin/loggable-questionnaire
+2020-09-14 12:15:11 -0500 3 years, 5 months ago 	origin/activitable-user-response-admin-view
+2020-09-11 19:05:43 -0300 3 years, 5 months ago 	origin/dev-to-merge
+2020-09-10 17:58:20 -0300 3 years, 5 months ago 	origin/users-list-filtering-issue
+2020-09-10 09:51:29 -0500 3 years, 5 months ago 	origin/course-decides-to-show-type
+2020-09-07 12:20:52 +0000 3 years, 6 months ago 	origin/receipt-generated-email-event
+2020-09-04 20:06:52 -0300 3 years, 6 months ago 	origin/sooke-payments
+2020-09-04 14:20:26 -0300 3 years, 6 months ago 	origin/discounts-tab-user-subscription-level
+2020-08-28 02:33:27 -0300 3 years, 6 months ago 	origin/kingfisher-subscription-plan-seeder-job
+2020-08-26 00:32:22 -0500 3 years, 6 months ago 	origin/mass-email-failed-job-fix
+2020-08-24 12:46:45 -0300 3 years, 6 months ago 	origin/students-course-report
+2020-08-13 17:21:03 -0300 3 years, 6 months ago 	origin/fix/field-grids-order
+2020-08-12 10:05:03 -0300 3 years, 6 months ago 	origin/reset-password-links-email-bug
+2020-08-04 11:13:19 -0300 3 years, 7 months ago 	origin/required-user-activities-cutoff-date
+2020-07-30 12:08:52 -0500 3 years, 7 months ago 	origin/user-activity-logs-grid
+2020-07-23 12:31:17 -0500 3 years, 7 months ago 	origin/access-learning-when-course-not-accessible
+2020-07-23 09:30:04 -0500 3 years, 7 months ago 	origin/quiz-multiple-attempt
+2020-07-20 15:40:53 -0300 3 years, 7 months ago 	origin/list-form-entities-grid
+2020-07-15 00:52:22 -0300 3 years, 7 months ago 	origin/browser-warning
+2020-07-14 16:39:06 -0300 3 years, 7 months ago 	origin/date-column-venue-course-admin-list
+2020-07-07 17:26:37 -0300 3 years, 8 months ago 	origin/learning-sessions-page
+2020-06-23 17:30:11 -0300 3 years, 8 months ago 	origin/block-components-entity
+2020-06-22 18:41:45 -0300 3 years, 8 months ago 	origin/course-list-calendar-page
+2020-06-01 13:57:01 +0000 3 years, 9 months ago 	origin/sessions-information-course-details
+2020-05-24 09:16:37 -0300 3 years, 9 months ago 	origin/user-name-order-presentation
+2020-05-11 15:51:45 -0500 3 years, 9 months ago 	origin/change-password-page
+2020-04-23 21:28:13 -0500 3 years, 10 months ago 	origin/plural-terminologies
+2020-04-20 12:38:46 -0300 3 years, 10 months ago 	origin/mergeuser-dry-run-option
+2020-04-17 21:59:00 -0300 3 years, 10 months ago 	origin/recommendation-test
+2020-04-17 13:39:07 -0500 3 years, 10 months ago 	origin/team-member-terminology-fix
+2020-04-09 11:39:00 -0300 3 years, 10 months ago 	origin/next-release
+2020-04-01 11:21:11 -0500 3 years, 11 months ago 	origin/currency-formats
+2020-03-31 11:24:59 -0500 3 years, 11 months ago 	origin/move-course-registrants
+2020-03-27 16:23:06 -0500 3 years, 11 months ago 	origin/record-registrant-session
+2020-03-20 12:23:54 -0300 3 years, 11 months ago 	origin/null-date-data-to-user_subscriptions
+2020-03-19 10:30:29 -0300 3 years, 11 months ago 	origin/add-transaction-currency
+2020-03-03 09:07:03 -0500 4 years ago 	origin/sentry-implementation
+2020-02-11 16:17:07 -0300 4 years ago 	origin/subscription-test-update
+2020-02-10 11:02:52 -0300 4 years ago 	origin/list-registrants-status
+2020-01-30 16:03:23 -0300 4 years, 1 month ago 	origin/subscription-test
+2020-01-14 19:14:24 -0300 4 years, 1 month ago 	origin/create-assign-block
+2020-01-14 10:27:37 -0500 4 years, 1 month ago 	origin/user-profile-forms
+2020-01-07 13:07:01 -0500 4 years, 2 months ago 	origin/context-relation-entity-fields
+2020-01-06 17:21:45 -0500 4 years, 2 months ago 	origin/create-password-for-admin
+2019-12-18 01:37:34 -0500 4 years, 2 months ago 	origin/certificate-templates-grid
+2019-12-16 11:50:08 -0500 4 years, 2 months ago 	origin/march-2020-content-seeder
+2019-11-29 09:47:28 -0300 4 years, 3 months ago 	origin/user-directory-assignment-selection
+2019-10-30 09:59:51 -0300 4 years, 4 months ago 	origin/main-admin-menu-revamp
+2019-10-29 12:49:29 -0300 4 years, 4 months ago 	origin/practitioners-report
+2019-10-24 14:22:21 -0300 4 years, 4 months ago 	origin/registration-code-test
+2019-10-24 09:53:07 -0300 4 years, 4 months ago 	origin/practioners-report
+2019-10-21 15:23:07 -0300 4 years, 4 months ago 	origin/registration-code-radical-setting
+2019-10-16 16:42:29 -0500 4 years, 4 months ago 	origin/set-interviewee-fields-on-setup
+2019-10-14 13:54:54 -0300 4 years, 4 months ago 	origin/team-setup-menu
+2019-10-07 14:18:58 -0300 4 years, 5 months ago 	origin/team-setup
